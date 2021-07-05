@@ -1,0 +1,1 @@
+web: kadai_nginx
